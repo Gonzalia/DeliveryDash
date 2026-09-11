@@ -45,6 +45,23 @@
 # Visual Studio cache directory
 .vs/
 
+# Local editor settings (keep shared VS Code extensions and debug configuration)
+/.vscode/*
+!/.vscode/extensions.json
+!/.vscode/launch.json
+!/.vscode/tasks.json
+.idea/
+*.sln.iml
+
+# Operating system metadata
+.DS_Store
+.DS_Store.meta
+._*
+Thumbs.db
+Thumbs.db.meta
+Desktop.ini
+Desktop.ini.meta
+
 # Gradle cache directory
 .gradle/
 
