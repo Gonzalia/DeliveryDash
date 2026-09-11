@@ -1,0 +1,4 @@
+Heladería generada con la herramienta integrada image_gen.
+Asset: Assets/Sprites/Houses/heladeria.png
+
+Prompt: Create a single isolated ice cream shop building sprite for a Unity 2D driving game. Whimsical hand-drawn cartoon style, bold black outlines, simple flat colors and cel shading, matching a village of rounded cream houses with curved red tiled roofs. Elevated front view, visible roof and front facade, no isometric side angle. Small charming cream building, strawberry pink curved roof, mint-and-cream striped awning, serving window and door, large ice cream cone roof sign. Sign text exactly HELADERIA. Entire building centered with small transparent margins, genuinely transparent background, no ground plane, no scene, no characters, no surrounding props, no watermark. Square bitmap, clearly readable at small game size.
